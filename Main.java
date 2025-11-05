@@ -10,7 +10,7 @@ public class Main {
         // Item: Milk
         // Price: 3.49
         // Quantity: 2
-        System.out.print("Enter item name: ");
+        System.out.print("Enter grocery item name: ");
         String Item = input.nextLine();
         System.out.print("Enter Price: ");
         double price = input.nextDouble();
